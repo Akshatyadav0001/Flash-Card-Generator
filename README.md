@@ -27,7 +27,7 @@ This is a Streamlit-based application that leverages OpenAI's GPT-3.5 to generat
 
 
 
-*(Replace with real screenshot or video)*
+
 
 ---
 
