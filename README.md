@@ -23,7 +23,10 @@ This is a Streamlit-based application that leverages OpenAI's GPT-3.5 to generat
 
 ## 🖼️ Demo
 
-![screenshot](https://via.placeholder.com/800x400.png?text=App+UI+Demo)  
+![Screenshot 2025-06-13 144042](https://github.com/user-attachments/assets/b13e6bb1-5a2a-44ab-b065-c2fa0e3acc1e)
+
+
+
 *(Replace with real screenshot or video)*
 
 ---
